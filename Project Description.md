@@ -2,7 +2,8 @@
 
 
 Project Description
-Anime Data Analysis using Exploratory Data Analysis (EDA) is a data science project that focuses on analyzing anime datasets to uncover patterns and insights related to genres, ratings, popularity, and other features. The project involves cleaning and preprocessing the dataset, performing exploratory data analysis, and creating visualizations to better understand trends in the anime industry..
+Anime Data Analysis using Exploratory Data Analysis (EDA) is a data science project that focuses on analyzing anime datasets to uncover patterns and insights related to genres, ratings, popularity, and other features. The project involves cleaning and preprocessing the dataset, performing exploratory data analysis, and creating visualizations to better understand trends in the anime industry...
+
 
 
 ## Data Visualization
